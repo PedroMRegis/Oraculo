@@ -1,0 +1,32 @@
+rows = [
+    {
+        "Area": "Comercial/Vendas",
+        "Responsabilidades": "Prospecção, qualificação, proposta, negociação e gestão do funil",
+        "Exemplo_de_KPI": "Taxa de conversão; ticket médio; ciclo de venda",
+    },
+    {
+        "Area": "Projetos/Operações",
+        "Responsabilidades": "Planejamento, execução, checkpoints, controle de qualidade e entrega",
+        "Exemplo_de_KPI": "% no prazo; retrabalho; satisfação do cliente (NPS)",
+    },
+    {
+        "Area": "Marketing",
+        "Responsabilidades": "Marca, conteúdo, eventos e geração de leads",
+        "Exemplo_de_KPI": "Leads/mês; CAC (estimado); tráfego/engajamento",
+    },
+    {
+        "Area": "Pessoas (RH)",
+        "Responsabilidades": "Recrutamento, onboarding, treinamento, cultura e acompanhamento",
+        "Exemplo_de_KPI": "Retenção; conclusão de treinamentos; desempenho",
+    },
+    {
+        "Area": "Financeiro",
+        "Responsabilidades": "Orçamento, precificação, fluxo de caixa e reembolsos",
+        "Exemplo_de_KPI": "Margem por projeto; caixa; aderência ao orçamento",
+    },
+    {
+        "Area": "Jurídico/Compliance (varia)",
+        "Responsabilidades": "Contratos, revisão de riscos e (quando aplicável) proteção de dados",
+        "Exemplo_de_KPI": "Tempo de contratação; % de contratos padronizados; incidentes",
+    },
+]

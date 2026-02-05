@@ -1,0 +1,46 @@
+1 - O que é uma Empresa Júnior?
+- Organização sem fins lucrativos, gerida por estudantes e vinculada a uma instituição de ensino.
+- Presta serviços e executa projetos reais para clientes (muitas vezes PMEs) com preços mais acessíveis.
+- Missão: desenvolver os membros por meio de vivência prática, empreendedorismo e aprendizado aplicado.
+
+2 - Como as EJs normalmente funcionam
+- Os membros são estudantes; a liderança costuma ter mandatos e processos eletivos/seleções internas.
+- A entrega segue uma estrutura profissional (escopo, cronograma, entregáveis, qualidade).
+- Muitas EJs fazem parte de redes/federações (regionais/estaduais e nacionais), com padrões e suporte.
+
+3 - Áreas/departamentos mais comuns
+- Comercial/Vendas: prospecção, qualificação, propostas, funil.
+- Projetos/Operações: execução, gestão de projeto, controle de qualidade.
+- Marketing: marca, conteúdo, eventos, geração de leads.
+- Pessoas (RH): recrutamento, onboarding, treinamentos, cultura.
+- Financeiro: orçamento, precificação, fluxo de caixa, reembolsos.
+- Jurídico/Compliance (varia): contratos, proteção de dados, revisão de riscos.
+
+4 - Fluxo típico de um projeto (simplificado)
+1. Captação de lead → 2. Reunião de diagnóstico → 3. Proposta → 4. Contrato
+5. Kickoff → 6. Execução (checkpoints) → 7. Entrega + treinamento
+8. Encerramento + feedback (ex.: NPS) → 9. Portfólio/case
+
+5 - Por que clientes contratam uma EJ
+- Bom custo-benefício, agilidade e flexibilidade.
+- Visão “fresca” com base acadêmica e métodos atualizados.
+- Ótimo para projetos exploratórios (MVP, diagnósticos, dashboards, pesquisa de mercado).
+
+6 - Por que estudantes entram em EJs
+- Experiência prática com cliente real e prazos.
+- Desenvolvimento de liderança (gestão de equipe, negociação, responsabilidade).
+- Networking, portfólio e sinalização de mercado.
+
+7 - Métricas úteis de sucesso (exemplos)
+- Comercial: leads/mês, taxa de conversão, ticket médio, tempo de ciclo de venda.
+- Entrega: % no prazo, % de retrabalho, mudanças de escopo, satisfação do cliente (NPS).
+- Pessoas: retenção, conclusão de treinamentos, avaliações de desempenho.
+- Financeiro: margem por projeto, estabilidade do caixa, aderência ao orçamento.
+
+8 - Armadilhas comuns (e mitigação rápida)
+- Prometer escopo demais → Escopo claro + controle de mudanças.
+- Qualidade inconsistente → Templates, revisão por pares, “gates” de QA.
+- Perda de conhecimento a cada gestão → Playbooks, documentação, onboarding forte.
+- Sobrecarga/burnout → Planejamento realista, papéis bem definidos, check-ins frequentes.
+
+"""
